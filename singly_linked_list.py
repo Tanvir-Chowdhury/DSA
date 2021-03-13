@@ -79,8 +79,8 @@ class linked_list:
             temp = temp.next
 
 a = linked_list()
-a.insert_first(50)
-a.insert_first(60)
+a.insert_first("Tanvir")
+a.insert_first("Sifat")
 a.insert_first(70)
 a.insert_last(10)
 a.insert_last(11)
